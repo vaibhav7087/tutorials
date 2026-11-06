@@ -1,0 +1,18 @@
+venv/
+.venv/
+node_modules/
+build/
+.next/
+dist/
+__pycache__/
+.cache/
+.env
+*.pem
+*.key
+id_rsa
+id_ed25519
+.opencode/
+.huggingface/
+# hardened 2026-11-07 (vaibhav7087 backup)
+.env.production
+.env.local
